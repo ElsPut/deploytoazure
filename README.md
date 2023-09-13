@@ -1,1 +1,3 @@
 # deploytoazure
+
+Version 1
